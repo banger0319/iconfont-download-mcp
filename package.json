@@ -1,0 +1,18 @@
+{
+  "name": "iconfont-download-mcp",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "iconfont-download-mcp": "server.js"
+  },
+  "description": "MCP server for downloading iconfont files",
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/figma-developer-mcp"
+  },
+  "dependencies": {
+    "extract-zip": "^2.0.1"
+  }
+}
