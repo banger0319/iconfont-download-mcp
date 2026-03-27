@@ -5,6 +5,9 @@
   "bin": {
     "iconfont-download-mcp": "server.js"
   },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "description": "MCP server for downloading iconfont files",
   "author": "gl-bang",
   "license": "MIT",
