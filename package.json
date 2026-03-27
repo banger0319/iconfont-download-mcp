@@ -1,6 +1,6 @@
 {
   "name": "gl-d-icon-font",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "bin": {
     "gl-d-icon-font": "index.js"
