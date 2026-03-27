@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "type": "module",
   "bin": {
-    "gl-d-icon-font": "server.js"
+    "gl-d-icon-font": "./index.js"
   },
-  "description": "gl-d-icon-font",
+  "description": "MCP server: download iconfont.cn project assets (CSS/TTF/WOFF/WOFF2)",
   "author": "gl-bang",
   "license": "MIT",
   "repository": {
@@ -13,6 +13,8 @@
     "url": "git+https://github.com/banger0319/gl-d-icon-font.git"
   },
   "dependencies": {
-    "extract-zip": "^2.0.1"
+    "@modelcontextprotocol/sdk": "^1.28.0",
+    "extract-zip": "^2.0.1",
+    "zod": "^3.25.0"
   }
 }
