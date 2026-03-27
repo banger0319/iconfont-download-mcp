@@ -1,19 +1,16 @@
 {
-  "name": "iconfont-download-mcp",
+  "name": "gl-download-icon",
   "version": "1.0.0",
   "type": "module",
   "bin": {
-    "iconfont-download-mcp": "server.js"
+    "gl-download-icon": "server.js"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "description": "MCP server for downloading iconfont files",
+  "description": "gl-download-icon",
   "author": "gl-bang",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/banger0319/iconfont-download-mcp.git"
+    "url": "git+https://github.com/banger0319/gl-download-icon.git"
   },
   "dependencies": {
     "extract-zip": "^2.0.1"
